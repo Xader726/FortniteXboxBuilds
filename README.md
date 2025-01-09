@@ -51,7 +51,7 @@ list of fortnite xbox builds
 # Season 10
 | Build            | Date     | Download                                                                                                                                                                                                           |
 |------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 10.10-CL-7955722 | 13-08-18 | [Xbox One](http://assets1.xboxlive.com/4/93b72e3d-5502-4ba9-b414-f65c4f9e43d7/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.795.5722.774373f5-0d99-4eb4-8003-27782d1f814d/Fortnite_1.0.795.5722_neutral__d5xxtpggmzx6p) |
+| 10.10-CL-7955722 | 13-08-19 | [Xbox One](http://assets1.xboxlive.com/4/93b72e3d-5502-4ba9-b414-f65c4f9e43d7/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.795.5722.774373f5-0d99-4eb4-8003-27782d1f814d/Fortnite_1.0.795.5722_neutral__d5xxtpggmzx6p) |
 | 10.20-CL-8482444 | 04-09-19 | [Xbox One](http://assets1.xboxlive.com/9/1c06fce0-5656-425d-8e67-b496a34177ab/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.848.2444.2963e15c-fd5f-4576-b72e-b0a52620dfc6/Fortnite_1.0.848.2444_neutral__d5xxtpggmzx6p) |
 | 10.30-CL-8569414 | 09-09-19 | [Xbox One](http://assets1.xboxlive.com/5/5daac7e1-50f5-44ae-8ae9-7af3cf873f4c/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.856.9414.5fe292fe-d407-4c34-925d-392ff1e47041/Fortnite_1.0.856.9414_neutral__d5xxtpggmzx6p) |
 | 10.31-CL-8723482 | 17-09-19 | [Xbox One](http://assets1.xboxlive.com/4/1075dda7-415c-4509-8ab0-bc6d31bf0b6f/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.872.3482.280658e4-8ad0-47ab-be6c-0d659bdc926d/Fortnite_1.0.872.3482_neutral__d5xxtpggmzx6p) |

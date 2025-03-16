@@ -1,6 +1,7 @@
 # FortniteXboxBuilds
 list of fortnite xbox builds
-
+a lot of dates are taken from last modified, and build names may be wrong.
+if you have older links, please tell me!! please!!
 
 # Pre-BattleRoyale
 | Build            | Date     | Download                                                                                                                                                                                                           |
@@ -48,7 +49,7 @@ list of fortnite xbox builds
 |------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 9.20-CL-6763123 | 03-06-19 | [Xbox One](http://assets1.xboxlive.com/4/0d8bd23f-900c-4170-ac76-6a8d624eb341/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.676.3213.650d2bec-2789-428e-9ab2-2b5309d76f96/Fortnite_1.0.676.3213_neutral__d5xxtpggmzx6p) |
 
-# Season 10
+# Season X (Season 10)
 | Build            | Date     | Download                                                                                                                                                                                                           |
 |------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 10.10-CL-7955722 | 13-08-19 | [Xbox One](http://assets1.xboxlive.com/4/93b72e3d-5502-4ba9-b414-f65c4f9e43d7/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.795.5722.774373f5-0d99-4eb4-8003-27782d1f814d/Fortnite_1.0.795.5722_neutral__d5xxtpggmzx6p) |
@@ -58,7 +59,7 @@ list of fortnite xbox builds
 | 10.40-CL-8970213 | 23-09-19 | [Xbox One](http://assets1.xboxlive.com/1/a0301d8a-83e7-46bd-9887-237c90b8a081/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.897.213.be419bc5-02a7-47d4-b009-4e81b1f82e70/Fortnite_1.0.897.213_neutral__d5xxtpggmzx6p) |
 | 10.40-CL-9302865 | 30-09-19 | [Xbox One](http://assets1.xboxlive.com/5/e5c0d3f9-0ae4-4baf-90e3-7526110512c0/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.930.2865.00a68df0-e819-48fe-be90-2c5b5975ff2e/Fortnite_1.0.930.2865_neutral__d5xxtpggmzx6p) |
 
-# Season 11
+# Chapter 2: Season 1 (Season 11)
 | Build            | Date     | Download                                                                                                                                                                                                           |
 |------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 11.00-CL-9562734 | 12-10-19 | [Xbox One](http://assets1.xboxlive.com/6/41ddc985-8cfb-44ac-9249-4e5c9c04d63b/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.956.2734.9edecfce-f742-4659-8c25-99ed1059cb6c/Fortnite_1.0.956.2734_neutral__d5xxtpggmzx6p) |

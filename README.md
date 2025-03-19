@@ -105,6 +105,6 @@ if you have older links, please tell me!! please!!
 | 34.00-CL-40446427 | 06-03-25 | [Xbox One](http://assets1.xboxlive.com/Z/258e8fb3-03fe-4703-85d2-b8c6b0d3830c/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.4044.6427.da2ae76f-5a65-4acf-aafd-150b37c7955f/436609B6.FortniteClient_1.0.4044.6427_neutral__9ncxwbgmmv7m8_x.xvc) [Xbox Series](http://assets1.xboxlive.com/14/da8f0429-83e0-4e3f-980d-a311e3d5f8f6/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/2.0.4044.6427.982eb618-6fbf-4816-a3bc-1ec7ebdaf6bd/436609B6.FortniteClient_2.0.4044.6427_neutral__9ncxwbgmmv7m8_xs.xvc) |
 | 34.10-CL-40543741 | 11-03-25 | [Xbox One](http://assets1.xboxlive.com/2/ccca88fb-977b-4196-986e-8d456c237f20/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.4054.3741.4acb76e7-dde9-453d-abb6-730e3a4790bd/436609B6.FortniteClient_1.0.4054.3741_neutral__9ncxwbgmmv7m8_x.xvc) |
 
-#Extra Notes
+# Extra Notes
 I'm unsure about the build name of 11.01-CL-9695230. It seems about right for either 11.01 or 11.00. Way too early for 11.10 though. \
 I need to put all the CDN links I have here lol. For now, if you want to see what I have, check [this gist here](https://gist.github.com/Xader726/1fc7dfa6f80fc04f9b46bf08bec670dc)

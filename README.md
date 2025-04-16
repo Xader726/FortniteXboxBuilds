@@ -1,6 +1,6 @@
 # FortniteXboxBuilds
-list of fortnite xbox builds
-a lot of dates are taken from last modified, and build names may be wrong.
+list of fortnite xbox builds \
+a lot of dates are taken from last modified, and build names may be slightly wrong. \
 if you have older links, please tell me!! please!!
 
 # Pre-BattleRoyale
@@ -9,8 +9,9 @@ if you have older links, please tell me!! please!!
 | OT11.0.?-CL-3472997 | 05-06-17 | [Xbox One](http://assets1.xboxlive.com/3/abee7eaa-1fca-4ff1-8c70-b2584ddb9d51/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.347.2997.8f753324-b0fc-4dd8-b941-6418bcc38292/Fortnite_1.0.347.2997_neutral__d5xxtpggmzx6p) |
 
 # Season 2
-| Build            | Date     | Download                                                                                                                                                                                                           |
-|------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Build            | Date     | Download                                                                                                                                                                                                           | Note |
+|------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
+| 1.11-CL-3807424* | 14-12-17 | [Xbox One](http://assets1.xboxlive.com/9/94b7636d-07d0-426b-a6b8-d2698da6f8a0/b4089566-bd0e-4fc4-ba55-2660ad6a9529/1.0.380.7424.6c5c1e34-af50-4492-b46e-38503b43c10e/MailApp_1.0.380.7424_neutral__d5xxtpggmzx6p) | *MailApp |
 | 2.3.0-CL-3847564 | 25-01-18 | [Xbox One](http://assets1.xboxlive.com/4/40894b77-3088-4dc2-981c-6683dc2e2c72/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.384.7564.9974a8e2-fb39-469b-aa5f-b0b2b32a3bbf/Fortnite_1.0.384.7564_neutral__d5xxtpggmzx6p) |
 
 # Season 3
@@ -71,7 +72,7 @@ if you have older links, please tell me!! please!!
 |------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 11.00-CL-9562734 | 12-10-19 | [Xbox One](http://assets1.xboxlive.com/6/41ddc985-8cfb-44ac-9249-4e5c9c04d63b/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.956.2734.9edecfce-f742-4659-8c25-99ed1059cb6c/Fortnite_1.0.956.2734_neutral__d5xxtpggmzx6p) |
 | 11.00-CL-9603448 | 16-10-19 | [Xbox One](http://assets1.xboxlive.com/12/d0a38163-407c-4cda-9b5e-abee90361114/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.960.3448.0a17834c-c903-4c5d-81e5-b911e99b8dfe/Fortnite_1.0.960.3448_neutral__d5xxtpggmzx6p) |
-| 11.01-CL-9695230 | 19-10-19 | [Xbox One](http://assets1.xboxlive.com/6/ec7b9f28-e14d-43e6-bfe7-49735a814840/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.969.5230.9d47285e-32bb-4c12-9220-5a5d1ed771d0/Fortnite_1.0.969.5230_neutral__d5xxtpggmzx6p) |
+| 11.01?-CL-9695230 | 19-10-19 | [Xbox One](http://assets1.xboxlive.com/6/ec7b9f28-e14d-43e6-bfe7-49735a814840/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.969.5230.9d47285e-32bb-4c12-9220-5a5d1ed771d0/Fortnite_1.0.969.5230_neutral__d5xxtpggmzx6p) |
 | 11.10-CL-9844520 | 26-10-19 | [Xbox One](http://assets1.xboxlive.com/15/d09d0977-47ed-48f6-a1d4-cd6f4ef703de/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.984.4520.0589ea92-2ac8-40f9-83b8-3370acc8dea3/Fortnite_1.0.984.4520_neutral__d5xxtpggmzx6p) |
 | 11.10-CL-9888431 | 30-10-19 | [Xbox One](http://assets1.xboxlive.com/11/524d795d-cc6e-4c9c-b261-257bd1178620/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.988.8431.483aa06f-5a94-403b-bf61-9f96616e73da/Fortnite_1.0.988.8431_neutral__d5xxtpggmzx6p) |
 | 11.11-CL-10106092 | 12-11-19 | [Xbox One](http://assets1.xboxlive.com/2/18e56916-8760-449a-a157-a068ab165f99/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.1010.6092.8b7bfc6f-7913-4ec6-83ad-41fc96748faa/Fortnite_1.0.1010.6092_neutral__d5xxtpggmzx6p) |
@@ -156,5 +157,4 @@ if you have older links, please tell me!! please!!
 | 34.10-CL-40543741 | 11-03-25 | [Xbox One](http://assets1.xboxlive.com/2/ccca88fb-977b-4196-986e-8d456c237f20/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.4054.3741.4acb76e7-dde9-453d-abb6-730e3a4790bd/436609B6.FortniteClient_1.0.4054.3741_neutral__9ncxwbgmmv7m8_x.xvc) |
 
 # Extra Notes
-I'm unsure about the build name of 11.01-CL-9695230. It seems about right for either 11.01 or 11.00. Way too early for 11.10 though. \
 I need to put all the CDN links I have here lol. For now, if you want to see what I have, check [this gist here](https://gist.github.com/Xader726/1fc7dfa6f80fc04f9b46bf08bec670dc)

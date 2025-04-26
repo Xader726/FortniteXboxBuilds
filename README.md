@@ -2,7 +2,7 @@
 list of fortnite xbox builds \
 a lot of dates are taken from last modified, and build names may be slightly wrong. \
 if you have older links, please tell me!! please!! \
-dumped files are from Dr. 18. hi 18 \
+dumped files are from Dr. 18. hi 18
 
 Date format is DD-MM-YY
 

@@ -1,4 +1,4 @@
-# FortniteXboxBuilds
+# [FortniteXboxBuilds](https://epicblazed.com/)
 list of fortnite xbox builds \
 a lot of dates are taken from last modified, and build names may be slightly wrong. \
 if you have older links, please tell me!! please!! \

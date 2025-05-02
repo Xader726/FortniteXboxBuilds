@@ -292,6 +292,9 @@ Date format is DD-MM-YY
 | 34.30-CL-41506760 | 15-04-25 | [Xbox One](http://assets1.xboxlive.com/7/38f8bdbb-cf6c-4c40-a733-a3e9d4605399/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.4150.6760.3bd7ee9c-4714-4be4-8b1a-706875b39655/436609B6.FortniteClient_1.0.4150.6760_neutral__9ncxwbgmmv7m8_x.xvc) [Xbox Series](http://assets1.xboxlive.com/8/dffa9010-a4a9-47e2-8a03-bb110db82e91/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/2.0.4150.6760.a6b84214-a48e-4a9a-bde9-3a0b78b1da5e/436609B6.FortniteClient_2.0.4150.6760_neutral__9ncxwbgmmv7m8_xs.xvc) |
 | 34.40-CL-41753727 | 22-04-25 | [Xbox One](http://assets1.xboxlive.com/8/f399483c-2883-4a3e-add2-3e13fab76d49/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.4175.3727.f575489c-b638-4f6e-ba65-3442b5af40b5/436609B6.FortniteClient_1.0.4175.3727_neutral__9ncxwbgmmv7m8_x.xvc) [Xbox Series](http://assets1.xboxlive.com/8/379701f7-363e-4e18-878b-891ea1ff949b/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/2.0.4175.3727.96f8644e-4ec5-45ef-a9f6-4185c0e64fa8/436609B6.FortniteClient_2.0.4175.3727_neutral__9ncxwbgmmv7m8_xs.xvc) |
 
+# Galactic Battle (Season 35)
+| 35.00-CL-41975848 | 02-05-25 | [Xbox One](http://assets1.xboxlive.com/2/e84c57a3-37b5-437f-8161-35cef82d1775/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.4197.5848.5061fe86-0942-4de2-a18d-2e75956614f9/436609B6.FortniteClient_1.0.4197.5848_neutral__9ncxwbgmmv7m8_x.xvc) |
+
 # Extra Notes
 I need to put all the CDN links I have here lol. For now, if you want to see what I have, check [this gist here.](https://gist.github.com/Xader726/1fc7dfa6f80fc04f9b46bf08bec670dc) \
 No-Intro has some Fortnite versions datted that I don't have links for (example: [1.0.400.805](https://datomatic.no-intro.org/index.php?page=show_record&s=253&n=00149) ).

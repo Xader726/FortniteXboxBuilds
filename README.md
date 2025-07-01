@@ -23,29 +23,40 @@ Date format is DD-MM-YY
 # Season 3
 | Build            | Date     | Download                                                                                                                                                                                                           | Dumped Files |
 |------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| 3.3-CL-3944819 | temp | N/A | N/A |
 | 3.5-CL-3994867 | 11-04-18 | [Xbox One](http://assets1.xboxlive.com/Z/267e8462-44c7-4c7a-9fd5-9884601bbc70/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.399.4867.8a3b4446-4242-4f54-bdb1-653f546727b0/Fortnite_1.0.399.4867_neutral__d5xxtpggmzx6p) | [Download](https://archive.org/download/fortnite-xbox-one-dumps/Fortnite_1.0.399.4867_neutral__d5xxtpggmzx6p.zip) |
 
 # Season 4
 | Build            | Date     | Download                                                                                                                                                                                                           | Dumped Files |
 |------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| 4.0-CL-4039451 | temp | N/A | N/A |
 | 4.2-CL-4072250 | 14-05-18 | [Xbox One](http://assets1.xboxlive.com/4/93f9f658-5cb5-4e0f-bc93-15e0a6aa377c/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.407.2250.7fca7944-205c-4c1a-9e77-36b91a023d0a/Fortnite_1.0.407.2250_neutral__d5xxtpggmzx6p) | [Download](https://archive.org/download/fortnite-xbox-one-dumps/Fortnite_1.0.399.4867_neutral__d5xxtpggmzx6p.zip) |
+| 4.3-CL-4101617 | temp | N/A | N/A |
+| 4.4-CL-4127312 | temp | N/A | N/A |
+| 4.4.X-CL-4132537 | temp | N/A | N/A |
 
 # Season 5
 | Build            | Date     | Download                                                                                                                                                                                                           | Dumped Files |
 |------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
 | 5.00-CL-4200584 | 11-07-18 | [Xbox One](http://assets1.xboxlive.com/8/770ac4c8-26ff-4e96-8346-ff76a932c1da/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.420.584.9e3a2a6f-2c5b-43cd-ac19-0ed83625c577/Fortnite_1.0.420.584_neutral__d5xxtpggmzx6p) | [Download](https://archive.org/download/fortnite-xbox-one-dumps/Fortnite_1.0.420.584_neutral__d5xxtpggmzx6p.zip) |
+| 5.10-CL-4240749 | temp | N/A | N/A |
+| 5.30-CL-4317672 | temp | N/A | N/A |
 | 5.41-CL-4363745 | 19-09-18 | [Xbox One](http://assets1.xboxlive.com/6/d77b8991-a251-472d-b697-fcb618d54f7f/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.436.3745.e873da97-fb8e-4d5c-9537-2264293369e3/Fortnite_1.0.436.3745_neutral__d5xxtpggmzx6p) | [Download](https://archive.org/download/fortnite-xbox-one-dumps/Fortnite_1.0.436.3745_neutral__d5xxtpggmzx6p.zip) |
 
 # Season 6
 | Build            | Date     | Download                                                                                                                                                                                                           |
 |------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 6.00-CL-4401222 | 27-09-18 | [Xbox One](http://assets1.xboxlive.com/2/3c45d360-ea3d-4252-b7a0-4925c35579a3/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.440.1222.a0d08ddf-678e-42b1-ae77-78fdcd2dfffe/Fortnite_1.0.440.1222_neutral__d5xxtpggmzx6p) |
+| 6.01-CL-4424417 | temp | N/A |
+| 6.10-CL-4477651 | temp | N/A |
+| 6.20-CL-4504220 | temp | N/A |
 | 6.22-CL-4538154 | 05-11-18 | [Xbox One](http://assets1.xboxlive.com/14/ef21d6af-8fc0-4b87-9df5-f6247aedd103/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.453.8154.e471c3f2-29c7-47c8-a31f-191adbb7928c/Fortnite_1.0.453.8154_neutral__d5xxtpggmzx6p) |
 
 # Season 7
 | Build            | Date     | Download                                                                                                                                                                                                           |
 |------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 7.00-CL-4629139 | 06-12-18 | [Xbox One](http://assets1.xboxlive.com/14/c628c509-f9b4-4e22-852f-1ba2484054b7/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.462.9139.d2823e43-24d5-4662-a977-d489e19e2387/Fortnite_1.0.462.9139_neutral__d5xxtpggmzx6p) |
+| 7.01-CL-4644267 | temp | N/A |
 | 7.10-CL-4667012 | 18-12-18 | [Xbox One](http://assets1.xboxlive.com/3/152f291d-1262-4ca4-9597-3ebcbc2ca8dd/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.466.7012.2fc5efa4-e442-4b37-a9c4-8cb64eb80fe1/Fortnite_1.0.466.7012_neutral__d5xxtpggmzx6p) |
 | 7.30-CL-4834550 | 29-01-19 | [Xbox One](http://assets1.xboxlive.com/12/f8feea3c-644d-43a7-bb13-c184105ec143/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.483.4550.8f7462d3-f522-490e-8af9-a4dd92ab3593/Fortnite_1.0.483.4550_neutral__d5xxtpggmzx6p) |
 
@@ -196,7 +207,7 @@ Date format is DD-MM-YY
 # Chapter 3: Season 3 (Season 21)
 | Build            | Date     | Download                                                                                                                                                                                                           | Dumped Files | Note |
 |------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|------|
-| Main-CL-21452241 | 20-08-22 | N/A | N/A | Dumped from Devkit HDD |
+| Main-CL-21452241 | 20-08-22 | N/A | [Temporary BuzzHeavier link](https://buzzheavier.com/1wbdgiazhvm7) | Dumped from Devkit HDD, has PDBs |
 
 # Chapter 3: Season 4 (Season 22)
 | Build            | Date     | Download                                                                                                                                                                                                           |
@@ -255,10 +266,10 @@ Date format is DD-MM-YY
 | 30.40-CL-35235494 | 06-08-24 | [Xbox One](http://assets1.xboxlive.com/11/fed1bbc5-c1df-4c3a-94af-dea4f946e2dd/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.3523.5494.30edf9db-92f9-4d9c-8e2f-e0904f61c4c6/436609B6.FortniteClient_1.0.3523.5494_neutral__9ncxwbgmmv7m8_x.xvc) [Xbox Series](http://assets1.xboxlive.com/14/24db6663-eaf7-429f-ae8a-81bb21f1fcba/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/2.0.3523.5494.26c7a5e4-538f-4471-a08f-200127fc7d43/436609B6.FortniteClient_2.0.3523.5494_neutral__9ncxwbgmmv7m8_xs.xvc) |
 
 # Chapter 5: Season 4 (Season 31)
-| Build            | Date     | Download                                                                                                                                                                                                           | Dumped Files | Note |
-|------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|------|
+| Build            | Date     | Download                                                                                                                                                                                                           | Dumped Files | Note | Password |
+|------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|------|----------|
 | 31.00-CL-35447195 | 15-08-24 | [Xbox One](http://assets1.xboxlive.com/14/6f55f2d7-f44d-4ba6-b1bf-880dbbdcc9b2/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.3544.7195.24ae4c5a-7adc-4044-8b3b-91c9ce6cde3a/436609B6.FortniteClient_1.0.3544.7195_neutral__9ncxwbgmmv7m8_x.xvc) [Xbox Series](http://assets1.xboxlive.com/3/0f091962-e30b-4434-87ab-feddf3b720ee/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/2.0.3544.7195.dd909dd4-c07b-4937-9cad-3db014856fa4/436609B6.FortniteClient_2.0.3544.7195_neutral__9ncxwbgmmv7m8_xs.xvc) |
-| 31.10-CL-35387737 | 21-08-24 | N/A | N/A | Dumped from Devkit HDD |
+| 31.10-CL-35387737 | 21-08-24 | N/A | [Temporary Buzzheavier Link](https://buzzheavier.com/0dw17qmezor7) | Dumped from Devkit HDD | ```{Km*CnNX*)H@G;1:@&83Er06K697dA&n``` |
 | 31.00-CL-35608429 | 23-08-24 | [Xbox Series](http://assets1.xboxlive.com/11/157aeb91-9ce5-4c99-b211-f181b9ebe81e/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/2.0.3560.8429.b0b1e379-87fd-416d-89d3-835cf3b29530/436609B6.FortniteClient_2.0.3560.8429_neutral__9ncxwbgmmv7m8_xs.xvc) |
 | 31.10-CL-35815136 | 04-09-24 | [Xbox One](http://assets1.xboxlive.com/15/c423f6d8-ad13-4139-80d4-889d25825dd5/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.3581.5136.cc94bd51-4f29-4f25-ba3a-2c3dadb9369f/436609B6.FortniteClient_1.0.3581.5136_neutral__9ncxwbgmmv7m8_x.xvc) [Xbox Series](http://assets1.xboxlive.com/9/be9f2f95-ee76-4576-bf3c-c6b3d304e160/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/2.0.3581.5136.de85f43c-3556-4b5f-9b2f-ad79ebd23042/436609B6.FortniteClient_2.0.3581.5136_neutral__9ncxwbgmmv7m8_xs.xvc) |
 | 31.20-CL-36217724 | 17-09-24 | [Xbox One](http://assets1.xboxlive.com/6/7ca152d8-b460-47a2-b966-8fca9137e02f/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.3621.7724.772748c6-03e3-41df-b004-aee9d9ad9687/436609B6.FortniteClient_1.0.3621.7724_neutral__9ncxwbgmmv7m8_x.xvc) [Xbox Series](http://assets1.xboxlive.com/2/706bd863-b904-4fb6-b0fa-c40b68e5e504/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/2.0.3621.7724.e043f444-7db1-49e1-85f7-a0697b0697cd/436609B6.FortniteClient_2.0.3621.7724_neutral__9ncxwbgmmv7m8_xs.xvc) |
@@ -308,7 +319,12 @@ Date format is DD-MM-YY
 | 35.00-CL-42212612 | 09-05-25 | [Xbox One](http://assets1.xboxlive.com/7/b165c48e-d265-4cc5-a1ca-a76588f9efaf/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.4221.2612.21735e46-9710-4180-a8b8-bf491a6eef90/436609B6.FortniteClient_1.0.4221.2612_neutral__9ncxwbgmmv7m8_x.xvc) [Xbox Series](http://assets1.xboxlive.com/3/74eeed70-e591-401a-a2ca-f8ddd82c4ab9/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/2.0.4221.2612.aa07816b-4de3-48c3-a996-bbb4076af3d2/436609B6.FortniteClient_2.0.4221.2612_neutral__9ncxwbgmmv7m8_xs.xvc) |
 | 35.10-CL-42471790 | 16-05-25 | [Xbox One](http://assets1.xboxlive.com/Z/1aa4e0ce-dbf0-4c0d-aa71-f354aec3ed68/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.4247.1790.ce7f86e1-ffd2-4b17-a428-336d5161a965/436609B6.FortniteClient_1.0.4247.1790_neutral__9ncxwbgmmv7m8_x.xvc) [Xbox Series](http://assets1.xboxlive.com/14/a43b32c5-2f32-4b78-8435-6edb82c5f0e0/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/2.0.4247.1790.35f6cdaf-94b8-4d72-b913-76dbaf2b082c/436609B6.FortniteClient_2.0.4247.1790_neutral__9ncxwbgmmv7m8_xs.xvc) |
 | 35.10-CL-42696139 | 17-05-25 | [Xbox One](http://assets1.xboxlive.com/15/f79a4e0e-e77a-4b04-a7aa-fe3935ac7c55/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.4269.6139.85e67989-5053-4cbf-b82d-c00c83d3049c/436609B6.FortniteClient_1.0.4269.6139_neutral__9ncxwbgmmv7m8_x.xvc) [Xbox Series](http://assets1.xboxlive.com/13/72231998-f284-4dff-9259-fb7c891fb292/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/2.0.4269.6139.95690ae8-c2ad-450b-ba50-18927570cdc3/436609B6.FortniteClient_2.0.4269.6139_neutral__9ncxwbgmmv7m8_xs.xvc) |
-| 35.20-CL-42911808 | 29-05-25 | [Xbox One](http://assets1.xboxlive.com/9/4d105b8a-3c92-4123-8251-2703e8887eb5/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.4291.1808.1ba8f7ab-3f96-4e2b-87dd-d980bf15b35e/436609B6.FortniteClient_1.0.4291.1808_neutral__9ncxwbgmmv7m8_x.xvc) |
+| 35.20-CL-42911808 | 29-05-25 | [Xbox One](http://assets1.xboxlive.com/9/4d105b8a-3c92-4123-8251-2703e8887eb5/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.4291.1808.1ba8f7ab-3f96-4e2b-87dd-d980bf15b35e/436609B6.FortniteClient_1.0.4291.1808_neutral__9ncxwbgmmv7m8_x.xvc) [Xbox Series](http://assets1.xboxlive.com/14/de11f858-fded-43e1-b1fd-77dfadaad1da/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/2.0.4291.1808.e0554513-318a-46a0-8c61-d10cd6303a1c/436609B6.FortniteClient_2.0.4291.1808_neutral__9ncxwbgmmv7m8_xs.xvc) |
+
+# Chapter 6: Season 3 (Season 36)
+| Build            | Date     | Download                                                                                                                                                                                                           |
+|------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 36.00-CL-43214806 | 07-06-25 | [Xbox One](http://assets1.xboxlive.com/15/999014b5-73d3-4d8e-806a-698b460aed50/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/1.0.4321.4806.6615da62-18dd-4f81-86ee-e2998e156f7f/436609B6.FortniteClient_1.0.4321.4806_neutral__9ncxwbgmmv7m8_x.xvc) [Xbox Series](http://assets1.xboxlive.com/15/1d938b71-4eea-4e1a-aa1d-e09f7066d1f4/4a617fcb-3c09-4ac5-9c4c-dc46b5263876/2.0.4321.4806.56de4143-ef32-4c6a-a7a1-8181137bfeb5/436609B6.FortniteClient_2.0.4321.4806_neutral__9ncxwbgmmv7m8_xs.xvc) |
 
 # Extra Notes
 I need to put all the CDN links I have here lol. For now, if you want to see what I have, check [this gist here.](https://gist.github.com/Xader726/1fc7dfa6f80fc04f9b46bf08bec670dc) \
